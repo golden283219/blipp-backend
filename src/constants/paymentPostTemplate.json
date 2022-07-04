@@ -1,0 +1,26 @@
+{
+  "payment": {
+      "operation": "Purchase",
+      "intent": "",
+      "currency": "SEK",
+      "prices": [{
+              "type": "",
+              "amount": 0,
+              "vatAmount": 0
+          }
+      ],
+      "description": "Food",
+      "userAgent": "Mozilla/5.0...",
+      "language": "sv-SE",
+      "urls": {
+      },
+      "payeeInfo": {
+          "payeeId": "",
+          "payeeReference": "",
+          "payeeName": "",
+          "productCategory": "",
+          "orderReference": "",
+          "subsite": ""
+      }
+  }
+}

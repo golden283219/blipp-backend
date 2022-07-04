@@ -1,0 +1,8 @@
+{
+  "transaction": {
+      "amount": 0,
+      "vatAmount": 0,
+      "description": "",
+      "payeeReference": ""
+  }
+}
